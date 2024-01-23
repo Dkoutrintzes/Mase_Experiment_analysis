@@ -16,7 +16,6 @@ When run it needs the input of the folder where the JSON files of the participan
 python Distances.py <path to folder>
 ```
 
--
 Scoreeval creates a boxplot using the json files from the familiarization games. Works as the above but needs the json files from the Familiarization games. 
 
 ---
