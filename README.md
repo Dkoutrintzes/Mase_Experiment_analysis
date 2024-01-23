@@ -3,10 +3,10 @@
 Most codes need an Expert folder with the results of the expert playthrough in order to plot those results in their graphs. The codes dont ask for that file manually.
 
 ---
-Distances create a boxplot with the distances of the participants in each block. 
-Scores create a boxplot with the scores of the participants in each block.
-Speeds create a boxplot with the avg speed of the participants in each block.
-Wins create a boxplot with the number of wins the participant had in each block.
+-Distances create a boxplot with the distances of the participants in each block. 
+-Scores create a boxplot with the scores of the participants in each block.
+-Speeds create a boxplot with the avg speed of the participants in each block.
+-Wins create a boxplot with the number of wins the participant had in each block.
 
 All codes need the same input as referred to bellow.
 
